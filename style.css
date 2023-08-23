@@ -1,0 +1,34 @@
+body{
+    
+   /* text-align: center; */
+   position: relative;
+   top: 130px;
+   left: 35%;
+  background-color: cornflowerblue;
+   font-size: 1.3em;
+}
+h1{
+    color: brown;
+    height: 30px;
+}
+#rock{
+   background-color: red;
+   height: 40px;
+    width: 8%
+    
+}
+    
+
+#paper{
+   background-color: green;
+   height: 40px;
+    width: 8%
+ 
+    
+}
+
+#scissors{
+    background-color: yellow;
+    height: 40px;
+    width: 8%
+}
